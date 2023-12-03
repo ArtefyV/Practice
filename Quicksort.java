@@ -3,7 +3,7 @@ public class Quicksort {
     // Java-реализация алгоритма Quicksort
     public static void main(String[] args)
     {
-        int[] a = { 9, -3, 5, 2, 6, 8, -6, 1, 3, -5, -1, 0, 7, 4, -4 };
+        int[] a = { 9, -3, 5, 2, 6, 8, -6, 1, 3, -5, -1, 0, 7, 4, -4, 1, 2, 3 };
 
         quicksort(a, 0, a.length - 1);
 
