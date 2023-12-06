@@ -4,6 +4,8 @@ public class Quicksort {
     public static void main(String[] args)
     {
         int[] a = { 9, -3, 5, 2, 6, 8, -6, 1, 3, -5, -1, 0, 7, 4, -4, 1, 2, 3 };
+        // Привет!
+        // Не вижу сегодняшнего результата =(
 
         quicksort(a, 0, a.length - 1);
 
